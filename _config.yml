@@ -1,0 +1,10 @@
+title: VinylShelf Legal
+description: Legal documents for VinylShelf
+theme: jekyll-theme-cayman
+timezone: Russia/Moscow
+markdown: kramdown
+kramdown:
+  input: GFM
+defaults:
+  - scope: {path: ""} 
+    values: {layout: default}

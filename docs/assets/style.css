@@ -1,0 +1,7 @@
+main { max-width: 900px; margin: 0 auto; }
+h1,h2,h3 { scroll-margin-top: 80px; }
+@media print {
+  a[href]:after { content: " (" attr(href) ")"; font-size: 90%; }
+  nav, footer { display: none !important; }
+  body { color: #000; background: #fff; }
+}
