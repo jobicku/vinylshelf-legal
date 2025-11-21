@@ -162,11 +162,8 @@ title: VinylShelf — юридическая информация
 <div class="download-section">
   <h2>Скачать приложение</h2>
   <div class="download-badges">
-    <a href="https://apps.apple.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" />
-    </a>
     <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
-      <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/ru_badge_web_generic.png" />
     </a>
   </div>
 </div>
