@@ -159,13 +159,6 @@ title: VinylShelf — юридическая информация
   </div>
 </div>
 
-<div class="download-section">
-  <h2>Скачать приложение</h2>
-  <div class="download-badges">
-    <iframe src="https://www.rustore.ru/external/simple-selection/buttons?theme=coloredLight&orientation=default&stores=rustore%3Ahttps%3A%2F%2Fwww.rustore.ru%2Fcatalog%2Fapp%2Fru.jobicku.vinylshelf%3Futm_source%3Davailable_in_rustore%26utm_medium%3Dru.jobicku.vinylshelf%26rsm%3D1%26mt_link_id%3Diios36%26mt_sub1%3Dru.jobicku.vinylshelf" frameborder="0" width="100%" height="80px"></iframe>
-  </div>
-</div>
-
 <div class="documents-section">
   <h2>Документы</h2>
   <ul>
